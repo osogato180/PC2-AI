@@ -1,0 +1,1201 @@
+area,unidad_area,habitaciones,banos,antiguedad,unidad_antiguedad,garage,piso,ubicacion,tipo_vivienda,precio,moneda
+97,m²,1,3,15,años,0,5,Barranco,Departamento,328948,Soles
+319,m²,1,5,27,años,0,1,Lima Centro,Departamento,687847,Soles
+298,m²,5,1,35,años,0,18,Surco,Departamento,721239,Soles
+341,m²,3,1,10,años,2,14,San Isidro,Casa,886189,Soles
+150,m²,7,3,6,años,0,13,Lima Centro,Casa,642741,Soles
+216,m²,5,3,2,años,2,15,La Molina,Departamento,677207,Soles
+80,m²,5,3,40,años,2,12,La Molina,Departamento,405774,Soles
+75,m²,1,2,18,años,0,8,Lima Centro,Casa,284017,Soles
+272,m²,6,3,10,años,1,12,Miraflores,Casa,877194,Soles
+76,m²,5,2,34,años,2,8,Miraflores,Casa,448267,Soles
+178,m²,6,5,14,años,2,11,Lima Centro,Departamento,661257,Soles
+56,m²,7,3,25,años,1,3,Miraflores,Casa,456134,Soles
+295,m²,4,4,9,años,1,5,Miraflores,Casa,885156,Soles
+339,m²,4,5,25,años,1,8,Miraflores,Casa,922557,Soles
+64,m²,7,1,9,años,2,6,Barranco,Casa,496286,Soles
+72,m²,4,4,38,años,1,17,San Isidro,Departamento,394183,Soles
+98,m²,6,5,17,años,2,11,Lima Centro,Casa,558292,Soles
+120,m²,4,1,16,años,2,6,La Molina,Departamento,451650,Soles
+192,m²,7,5,38,años,0,5,San Isidro,Departamento,664348,Soles
+311,m²,1,5,20,años,1,1,Lima Centro,Casa,814187,Soles
+197,m²,2,1,15,años,2,3,Lima Centro,Casa,585478,Soles
+75,m²,7,5,8,años,0,16,La Molina,Departamento,455570,Soles
+310,m²,7,5,27,años,0,18,Barranco,Departamento,896723,Soles
+199,m²,4,3,28,años,2,15,Lima Centro,Departamento,560325,Soles
+72,m²,3,1,37,años,2,8,La Molina,Departamento,260071,Soles
+76,m²,6,1,14,años,0,2,San Isidro,Departamento,383295,Soles
+161,m²,3,4,13,años,2,5,Barranco,Casa,596125,Soles
+282,m²,7,4,12,años,0,4,Barranco,Casa,881619,Soles
+256,m²,4,4,3,años,2,4,Lima Centro,Casa,805124,Soles
+213,m²,7,1,15,años,0,7,La Molina,Casa,678186,Soles
+256,m²,2,3,29,años,0,3,Surco,Departamento,575715,Soles
+316,m²,7,1,5,años,0,6,Surco,Casa,902146,Soles
+149,m²,7,4,3,años,0,13,Lima Centro,Casa,624380,Soles
+272,m²,3,4,35,años,2,16,Miraflores,Departamento,716845,Soles
+151,m²,1,5,34,años,0,11,Lima Centro,Departamento,408084,Soles
+284,m²,5,5,10,años,0,17,Lima Centro,Departamento,747290,Soles
+344,m²,1,2,25,años,0,19,Miraflores,Departamento,755991,Soles
+81,m²,4,5,36,años,2,11,San Isidro,Departamento,445291,Soles
+200,m²,2,3,25,años,0,10,Surco,Casa,601274,Soles
+77,m²,1,4,39,años,2,4,Lima Centro,Departamento,280153,Soles
+175,m²,2,3,4,años,0,12,San Isidro,Departamento,512516,Soles
+318,m²,6,3,39,años,2,17,Lima Centro,Casa,911675,Soles
+93,m²,2,3,7,años,0,18,Miraflores,Casa,415865,Soles
+349,m²,2,3,13,años,2,9,La Molina,Casa,885257,Soles
+66,m²,1,4,17,años,0,1,San Isidro,Departamento,297953,Soles
+174,m²,2,4,35,años,2,14,La Molina,Departamento,486731,Soles
+78,m²,6,2,34,años,0,12,La Molina,Departamento,358366,Soles
+105,m²,1,3,23,años,0,12,Miraflores,Departamento,343708,Soles
+92,m²,3,5,26,años,2,5,Miraflores,Departamento,445821,Soles
+130,m²,4,1,11,años,2,11,Surco,Departamento,445085,Soles
+121,m²,7,1,24,años,0,16,Miraflores,Departamento,498315,Soles
+275,m²,3,3,14,años,0,1,Barranco,Departamento,679113,Soles
+208,m²,3,1,17,años,1,17,Surco,Casa,592408,Soles
+99,m²,3,2,37,años,1,2,Lima Centro,Casa,374054,Soles
+200,m²,4,5,32,años,0,13,La Molina,Departamento,573693,Soles
+62,m²,6,4,0,años,2,18,Barranco,Departamento,456869,Soles
+260,m²,1,3,39,años,1,4,Barranco,Casa,671634,Soles
+198,m²,6,4,20,años,1,10,La Molina,Departamento,629972,Soles
+255,m²,6,4,11,años,2,19,San Isidro,Casa,888909,Soles
+40,m²,3,3,13,años,1,19,La Molina,Casa,356073,Soles
+266,m²,4,2,32,años,1,6,Barranco,Departamento,664798,Soles
+303,m²,6,5,21,años,0,8,Barranco,Casa,896322,Soles
+141,m²,2,1,2,años,0,16,La Molina,Departamento,397046,Soles
+252,m²,6,5,12,años,2,13,Surco,Casa,855589,Soles
+115,m²,6,1,6,años,1,8,Miraflores,Casa,517491,Soles
+325,m²,2,1,29,años,0,15,Barranco,Casa,794696,Soles
+266,m²,5,5,27,años,2,15,Miraflores,Casa,862895,Soles
+172,m²,7,2,40,años,1,17,Surco,Departamento,564196,Soles
+265,m²,1,3,15,años,1,11,San Isidro,Departamento,635868,Soles
+117,m²,2,4,9,años,2,7,Lima Centro,Casa,479112,Soles
+209,m²,5,4,26,años,0,7,Surco,Casa,716899,Soles
+339,m²,6,1,36,años,1,16,Lima Centro,Casa,872369,Soles
+239,m²,7,4,34,años,2,18,La Molina,Departamento,757796,Soles
+152,m²,3,4,31,años,0,13,San Isidro,Casa,571259,Soles
+124,m²,7,4,8,años,2,18,Lima Centro,Casa,638790,Soles
+328,m²,6,1,5,años,2,14,Miraflores,Casa,935509,Soles
+65,m²,3,4,20,años,0,15,San Isidro,Casa,431887,Soles
+234,m²,3,4,16,años,0,16,Lima Centro,Departamento,599735,Soles
+154,m²,6,1,2,años,0,8,Miraflores,Departamento,539919,Soles
+118,m²,2,2,30,años,2,4,La Molina,Departamento,371076,Soles
+171,m²,7,3,10,años,2,20,Barranco,Departamento,676773,Soles
+123,m²,3,1,37,años,0,10,La Molina,Casa,408995,Soles
+141,m²,1,5,40,años,0,4,Barranco,Casa,494724,Soles
+347,m²,7,1,36,años,0,12,La Molina,Casa,932353,Soles
+229,m²,1,5,21,años,0,14,Surco,Departamento,581611,Soles
+225,m²,6,4,9,años,1,6,Barranco,Casa,796364,Soles
+315,m²,7,4,29,años,1,19,San Isidro,Casa,1000217,Soles
+165,m²,7,1,17,años,1,8,Surco,Casa,628046,Soles
+54,m²,4,3,11,años,1,7,San Isidro,Casa,415904,Soles
+183,m²,5,3,35,años,0,17,Miraflores,Departamento,545817,Soles
+248,m²,4,5,15,años,2,16,Barranco,Casa,815571,Soles
+48,m²,1,3,14,años,1,8,San Isidro,Casa,336015,Soles
+323,m²,5,3,27,años,2,18,San Isidro,Casa,958462,Soles
+272,m²,3,3,16,años,0,4,Barranco,Departamento,668279,Soles
+101,m²,6,5,11,años,0,7,Barranco,Casa,547320,Soles
+341,m²,7,5,38,años,1,4,Miraflores,Casa,991308,Soles
+224,m²,2,3,0,años,2,18,Miraflores,Casa,684582,Soles
+67,m²,5,3,8,años,2,16,Lima Centro,Departamento,395421,Soles
+185,m²,4,4,28,años,1,6,Lima Centro,Casa,637673,Soles
+284,m²,1,1,25,años,1,3,La Molina,Departamento,591543,Soles
+116,m²,7,5,19,años,0,8,Lima Centro,Casa,582135,Soles
+345,m²,7,5,14,años,2,13,Surco,Casa,1049087,Soles
+341,m²,4,3,36,años,2,2,La Molina,Departamento,851186,Soles
+146,m²,6,2,16,años,2,3,Miraflores,Departamento,533391,Soles
+322,m²,1,2,0,años,1,15,Barranco,Casa,806687,Soles
+56,m²,2,3,18,años,2,15,Lima Centro,Departamento,267537,Soles
+341,m²,6,2,27,años,0,18,Miraflores,Departamento,891333,Soles
+176,m²,7,2,4,años,0,6,San Isidro,Casa,686580,Soles
+103,m²,4,3,25,años,1,17,La Molina,Casa,476688,Soles
+81,m²,5,1,27,años,2,11,La Molina,Casa,411895,Soles
+86,m²,2,5,37,años,0,9,La Molina,Departamento,342611,Soles
+129,m²,4,5,28,años,1,6,La Molina,Casa,560001,Soles
+291,m²,1,4,22,años,1,11,San Isidro,Departamento,739412,Soles
+122,m²,3,4,31,años,1,13,La Molina,Departamento,424607,Soles
+85,m²,3,3,20,años,0,13,La Molina,Departamento,346500,Soles
+317,m²,4,4,3,años,0,17,San Isidro,Casa,923586,Soles
+266,m²,7,1,13,años,1,18,Miraflores,Casa,839312,Soles
+288,m²,1,1,40,años,2,8,Barranco,Departamento,625165,Soles
+322,m²,1,5,26,años,0,8,Lima Centro,Casa,762498,Soles
+118,m²,4,3,32,años,2,9,Surco,Casa,516147,Soles
+164,m²,4,5,9,años,1,7,La Molina,Departamento,591624,Soles
+75,m²,3,4,21,años,2,9,Lima Centro,Casa,436582,Soles
+192,m²,7,5,37,años,2,16,Miraflores,Casa,774296,Soles
+287,m²,3,3,35,años,2,13,Surco,Casa,820990,Soles
+136,m²,6,2,36,años,1,8,Surco,Departamento,474852,Soles
+282,m²,6,4,24,años,2,5,Surco,Departamento,793073,Soles
+297,m²,5,3,6,años,1,4,La Molina,Casa,835605,Soles
+113,m²,4,2,4,años,1,9,San Isidro,Casa,534387,Soles
+81,m²,7,3,34,años,1,11,Barranco,Casa,534972,Soles
+317,m²,1,5,4,años,0,10,Miraflores,Departamento,767240,Soles
+90,m²,7,1,28,años,0,10,Lima Centro,Departamento,365658,Soles
+68,m²,3,3,23,años,1,5,Miraflores,Casa,404888,Soles
+132,m²,2,2,5,años,2,13,La Molina,Departamento,435615,Soles
+338,m²,2,2,29,años,2,9,Surco,Casa,860502,Soles
+44,m²,7,4,18,años,2,18,Miraflores,Departamento,437949,Soles
+216,m²,5,3,40,años,1,9,Surco,Casa,670055,Soles
+236,m²,7,4,6,años,0,13,La Molina,Casa,817670,Soles
+191,m²,6,3,1,años,2,13,San Isidro,Departamento,694088,Soles
+65,m²,5,4,18,años,0,20,San Isidro,Departamento,410121,Soles
+137,m²,5,3,8,años,2,4,Barranco,Departamento,524446,Soles
+265,m²,1,5,23,años,2,5,Lima Centro,Casa,714811,Soles
+252,m²,2,2,8,años,2,12,La Molina,Casa,739025,Soles
+124,m²,3,4,18,años,2,11,Lima Centro,Casa,487334,Soles
+112,m²,7,2,25,años,2,12,Lima Centro,Casa,518112,Soles
+175,m²,5,1,29,años,1,9,La Molina,Casa,609297,Soles
+230,m²,1,2,30,años,0,20,La Molina,Casa,619982,Soles
+153,m²,6,1,40,años,1,10,Barranco,Casa,546046,Soles
+111,m²,1,1,19,años,1,4,Lima Centro,Departamento,316347,Soles
+315,m²,2,4,29,años,1,18,Surco,Departamento,786626,Soles
+252,m²,6,1,31,años,2,14,San Isidro,Departamento,740838,Soles
+229,m²,2,4,28,años,0,12,Lima Centro,Casa,630882,Soles
+223,m²,1,4,17,años,0,4,Surco,Departamento,564635,Soles
+148,m²,6,5,1,años,0,11,Miraflores,Departamento,615575,Soles
+329,m²,2,1,35,años,0,19,Miraflores,Departamento,704932,Soles
+115,m²,7,5,0,años,1,5,Miraflores,Casa,668331,Soles
+129,m²,1,1,8,años,0,12,Miraflores,Casa,396234,Soles
+129,m²,3,1,8,años,2,14,La Molina,Departamento,450667,Soles
+72,m²,4,4,23,años,2,19,Lima Centro,Casa,447219,Soles
+153,m²,5,1,33,años,1,15,Barranco,Departamento,459786,Soles
+285,m²,7,4,27,años,2,4,Surco,Casa,885616,Soles
+81,m²,3,5,9,años,0,5,San Isidro,Casa,458962,Soles
+345,m²,5,3,29,años,2,20,Surco,Departamento,913176,Soles
+98,m²,7,5,13,años,1,15,Miraflores,Casa,600012,Soles
+272,m²,4,4,6,años,1,14,San Isidro,Casa,840130,Soles
+118,m²,6,4,4,años,0,3,Lima Centro,Casa,523328,Soles
+230,m²,7,2,35,años,0,19,La Molina,Casa,747109,Soles
+102,m²,4,3,27,años,2,2,San Isidro,Casa,499845,Soles
+93,m²,5,5,13,años,0,16,Miraflores,Departamento,452545,Soles
+324,m²,3,1,17,años,2,8,Surco,Departamento,782111,Soles
+176,m²,1,2,17,años,2,10,San Isidro,Casa,535800,Soles
+132,m²,7,2,36,años,2,13,Lima Centro,Departamento,519360,Soles
+55,m²,1,5,13,años,1,14,Surco,Casa,349915,Soles
+229,m²,3,3,36,años,2,3,Lima Centro,Departamento,565716,Soles
+65,m²,6,1,17,años,1,14,Surco,Casa,432943,Soles
+179,m²,2,5,7,años,1,14,Lima Centro,Casa,614447,Soles
+343,m²,4,5,19,años,0,8,Surco,Departamento,831503,Soles
+144,m²,3,2,8,años,1,10,San Isidro,Departamento,449106,Soles
+294,m²,6,4,11,años,0,13,La Molina,Departamento,816185,Soles
+326,m²,7,3,4,años,1,2,Surco,Departamento,902730,Soles
+79,m²,7,3,36,años,1,19,Surco,Casa,492173,Soles
+98,m²,4,1,20,años,0,20,Surco,Casa,402175,Soles
+263,m²,7,1,15,años,1,19,Surco,Departamento,749536,Soles
+198,m²,6,3,14,años,1,6,Lima Centro,Departamento,618173,Soles
+301,m²,2,3,22,años,2,5,Miraflores,Departamento,722997,Soles
+171,m²,2,2,38,años,0,3,Miraflores,Casa,501005,Soles
+328,m²,7,5,28,años,2,19,Barranco,Casa,1048639,Soles
+201,m²,2,4,4,años,1,15,Barranco,Casa,678188,Soles
+180,m²,5,1,22,años,2,3,San Isidro,Casa,642616,Soles
+59,m²,1,3,18,años,0,3,La Molina,Casa,301324,Soles
+337,m²,5,1,28,años,2,7,San Isidro,Casa,924457,Soles
+117,m²,1,4,6,años,1,3,La Molina,Departamento,360365,Soles
+166,m²,6,4,28,años,2,17,La Molina,Departamento,599648,Soles
+230,m²,3,4,26,años,1,20,Lima Centro,Casa,655119,Soles
+208,m²,1,5,24,años,1,9,Barranco,Departamento,554647,Soles
+81,m²,5,2,22,años,1,13,Miraflores,Departamento,381088,Soles
+326,m²,4,3,8,años,2,17,Lima Centro,Casa,903124,Soles
+225,m²,1,3,19,años,0,7,San Isidro,Casa,609383,Soles
+155,m²,2,2,4,años,1,4,La Molina,Departamento,461780,Soles
+212,m²,7,5,8,años,2,13,Miraflores,Departamento,749251,Soles
+124,m²,6,4,2,años,1,12,Barranco,Departamento,546511,Soles
+185,m²,7,4,14,años,2,8,San Isidro,Casa,798842,Soles
+139,m²,3,5,28,años,1,10,Surco,Casa,530220,Soles
+142,m²,7,5,8,años,1,2,Barranco,Casa,704886,Soles
+230,m²,5,1,33,años,0,10,Lima Centro,Departamento,558277,Soles
+270,m²,5,2,27,años,0,8,Surco,Casa,732747,Soles
+252,m²,1,4,32,años,1,8,Surco,Departamento,603170,Soles
+154,m²,1,3,6,años,2,11,Miraflores,Departamento,450310,Soles
+186,m²,7,4,8,años,2,16,Surco,Departamento,724366,Soles
+80,m²,1,3,13,años,0,18,Barranco,Casa,344086,Soles
+187,m²,2,3,7,años,0,8,Surco,Casa,552716,Soles
+96,m²,7,4,38,años,2,1,Barranco,Departamento,507090,Soles
+113,m²,3,4,0,años,2,12,Miraflores,Casa,532275,Soles
+83,m²,5,3,4,años,2,18,La Molina,Departamento,438588,Soles
+280,m²,1,4,23,años,1,1,San Isidro,Departamento,676796,Soles
+163,m²,6,1,37,años,2,11,Miraflores,Departamento,538888,Soles
+319,m²,3,2,29,años,2,16,Barranco,Departamento,801382,Soles
+109,m²,1,4,2,años,1,7,Lima Centro,Departamento,389451,Soles
+61,m²,3,3,32,años,1,18,Surco,Casa,347199,Soles
+137,m²,3,3,3,años,2,11,San Isidro,Departamento,533185,Soles
+228,m²,4,4,28,años,1,11,Miraflores,Casa,742955,Soles
+294,m²,3,5,17,años,0,14,Lima Centro,Casa,809482,Soles
+132,m²,5,3,20,años,0,3,San Isidro,Casa,545086,Soles
+268,m²,5,4,10,años,2,15,San Isidro,Casa,852175,Soles
+220,m²,5,4,17,años,2,2,Lima Centro,Casa,723009,Soles
+302,m²,7,2,1,años,0,20,Barranco,Casa,886680,Soles
+104,m²,1,2,23,años,1,13,La Molina,Departamento,325655,Soles
+118,m²,6,4,23,años,1,15,Lima Centro,Departamento,488498,Soles
+227,m²,4,3,17,años,0,4,Lima Centro,Departamento,593105,Soles
+305,m²,4,5,7,años,1,9,Barranco,Casa,886862,Soles
+186,m²,6,4,12,años,0,5,Lima Centro,Casa,642715,Soles
+267,m²,1,3,22,años,2,3,La Molina,Casa,739014,Soles
+193,m²,7,2,40,años,0,12,La Molina,Departamento,562953,Soles
+142,m²,7,2,15,años,1,1,San Isidro,Casa,630031,Soles
+322,m²,2,5,5,años,0,10,Surco,Casa,866051,Soles
+250,m²,7,4,36,años,0,5,San Isidro,Departamento,747289,Soles
+278,m²,6,5,22,años,0,18,Barranco,Departamento,823717,Soles
+106,m²,4,5,3,años,0,17,Miraflores,Casa,521590,Soles
+122,m²,3,2,22,años,2,10,Lima Centro,Casa,450064,Soles
+322,m²,3,2,40,años,1,20,La Molina,Departamento,746536,Soles
+126,m²,5,5,9,años,0,20,Barranco,Casa,617216,Soles
+328,m²,1,1,5,años,0,19,San Isidro,Departamento,752863,Soles
+332,m²,4,5,40,años,0,16,Barranco,Casa,909468,Soles
+194,m²,4,2,25,años,1,15,Lima Centro,Departamento,512559,Soles
+265,m²,4,4,29,años,0,11,La Molina,Departamento,678485,Soles
+203,m²,6,3,25,años,0,12,La Molina,Departamento,604913,Soles
+163,m²,4,1,17,años,1,8,Miraflores,Departamento,470716,Soles
+188,m²,4,5,26,años,0,6,San Isidro,Casa,644440,Soles
+121,m²,4,5,29,años,1,10,Surco,Departamento,446901,Soles
+241,m²,5,4,15,años,0,19,San Isidro,Departamento,691312,Soles
+184,m²,4,5,30,años,1,18,Lima Centro,Departamento,562841,Soles
+108,m²,3,3,25,años,1,2,Surco,Departamento,392373,Soles
+327,m²,2,3,35,años,1,3,Surco,Casa,833095,Soles
+321,m²,3,5,39,años,0,5,Lima Centro,Casa,809457,Soles
+213,m²,5,3,9,años,0,20,La Molina,Casa,705373,Soles
+60,m²,1,1,8,años,2,11,Surco,Casa,309960,Soles
+350,m²,5,2,20,años,2,11,Miraflores,Casa,976202,Soles
+193,m²,5,3,32,años,2,18,Surco,Casa,683522,Soles
+48,m²,3,3,7,años,1,19,San Isidro,Departamento,341319,Soles
+282,m²,3,5,36,años,0,2,La Molina,Casa,747174,Soles
+308,m²,6,5,24,años,0,8,Lima Centro,Departamento,799503,Soles
+49,m²,4,3,26,años,0,14,Barranco,Departamento,294094,Soles
+296,m²,7,5,30,años,2,2,Barranco,Departamento,882392,Soles
+146,m²,5,3,30,años,2,13,San Isidro,Departamento,546324,Soles
+312,m²,3,5,22,años,2,9,La Molina,Casa,865000,Soles
+166,m²,3,5,19,años,0,10,San Isidro,Departamento,554235,Soles
+290,m²,3,4,22,años,2,9,San Isidro,Departamento,787383,Soles
+318,m²,4,4,22,años,0,10,Lima Centro,Casa,857801,Soles
+80,m²,3,4,16,años,2,16,Miraflores,Departamento,428860,Soles
+315,m²,3,5,17,años,0,4,La Molina,Departamento,765689,Soles
+65,m²,6,5,14,años,2,8,Lima Centro,Departamento,428686,Soles
+209,m²,6,4,6,años,2,5,Lima Centro,Departamento,676667,Soles
+283,m²,4,2,18,años,1,10,Barranco,Departamento,756302,Soles
+85,m²,6,5,14,años,2,2,Miraflores,Casa,595618,Soles
+130,m²,1,4,31,años,0,10,Lima Centro,Departamento,336355,Soles
+330,m²,5,1,21,años,1,15,Barranco,Casa,917078,Soles
+108,m²,7,5,29,años,1,7,Lima Centro,Casa,545849,Soles
+274,m²,6,3,11,años,0,11,San Isidro,Departamento,764301,Soles
+247,m²,7,4,32,años,1,3,Surco,Departamento,727709,Soles
+111,m²,4,3,15,años,0,9,Surco,Departamento,412277,Soles
+176,m²,3,3,37,años,2,19,Lima Centro,Casa,584439,Soles
+224,m²,6,2,3,años,2,4,Surco,Casa,749267,Soles
+247,m²,6,5,19,años,2,4,Barranco,Casa,844087,Soles
+153,m²,2,2,30,años,0,15,Barranco,Casa,479652,Soles
+321,m²,4,5,13,años,0,20,Lima Centro,Casa,887814,Soles
+225,m²,1,5,7,años,0,18,La Molina,Departamento,598532,Soles
+314,m²,2,2,20,años,2,15,Lima Centro,Departamento,741183,Soles
+338,m²,4,1,32,años,1,2,Surco,Departamento,783236,Soles
+252,m²,4,5,3,años,2,15,Barranco,Casa,854400,Soles
+51,m²,4,3,0,años,2,7,La Molina,Departamento,329368,Soles
+256,m²,3,1,34,años,0,3,Surco,Departamento,574214,Soles
+249,m²,2,2,26,años,1,13,Surco,Casa,668018,Soles
+81,m²,6,5,8,años,2,12,Lima Centro,Departamento,476009,Soles
+241,m²,5,2,14,años,0,1,San Isidro,Casa,752938,Soles
+318,m²,4,5,24,años,0,8,Surco,Casa,860166,Soles
+181,m²,2,1,2,años,2,14,La Molina,Departamento,493372,Soles
+145,m²,1,1,38,años,0,15,La Molina,Departamento,321438,Soles
+62,m²,4,4,14,años,2,7,Lima Centro,Departamento,360423,Soles
+188,m²,2,5,20,años,2,20,Barranco,Casa,640925,Soles
+194,m²,2,5,14,años,1,10,San Isidro,Departamento,596885,Soles
+342,m²,6,2,40,años,2,14,La Molina,Casa,912872,Soles
+216,m²,6,4,33,años,1,14,Surco,Departamento,662053,Soles
+232,m²,2,5,30,años,0,8,San Isidro,Departamento,640807,Soles
+277,m²,1,5,26,años,1,18,La Molina,Departamento,677255,Soles
+164,m²,3,2,21,años,2,3,Surco,Casa,539459,Soles
+314,m²,6,2,3,años,1,13,Barranco,Departamento,880253,Soles
+77,m²,2,5,35,años,0,16,Miraflores,Casa,389269,Soles
+47,m²,2,2,7,años,2,16,Miraflores,Departamento,290993,Soles
+162,m²,5,3,18,años,1,15,La Molina,Casa,606212,Soles
+173,m²,3,5,31,años,1,4,Barranco,Casa,627314,Soles
+203,m²,2,3,20,años,1,2,La Molina,Departamento,550578,Soles
+114,m²,1,3,35,años,2,19,Barranco,Casa,431745,Soles
+118,m²,2,3,14,años,1,19,Miraflores,Casa,490886,Soles
+212,m²,3,4,31,años,1,6,Barranco,Casa,642292,Soles
+111,m²,6,5,31,años,0,18,Barranco,Departamento,496337,Soles
+57,m²,7,1,3,años,0,14,Miraflores,Departamento,357654,Soles
+117,m²,1,2,32,años,1,12,Lima Centro,Casa,391006,Soles
+289,m²,1,1,34,años,2,14,Lima Centro,Departamento,623295,Soles
+180,m²,5,3,1,años,2,14,Miraflores,Departamento,609312,Soles
+308,m²,2,2,12,años,2,17,San Isidro,Casa,827119,Soles
+243,m²,1,3,25,años,1,19,Miraflores,Departamento,591259,Soles
+81,m²,6,1,5,años,1,13,Surco,Casa,451877,Soles
+44,m²,6,2,5,años,1,14,Barranco,Casa,442483,Soles
+88,m²,5,1,14,años,0,19,Surco,Casa,412851,Soles
+78,m²,6,3,34,años,2,2,Miraflores,Casa,466226,Soles
+146,m²,5,2,25,años,0,10,Miraflores,Departamento,488938,Soles
+239,m²,6,5,21,años,1,5,Barranco,Departamento,746819,Soles
+217,m²,1,1,27,años,0,3,San Isidro,Casa,584295,Soles
+207,m²,1,3,28,años,1,8,San Isidro,Casa,602701,Soles
+135,m²,6,5,24,años,0,20,San Isidro,Departamento,576934,Soles
+77,m²,1,3,9,años,1,5,Barranco,Casa,366553,Soles
+224,m²,1,1,0,años,1,15,San Isidro,Casa,614899,Soles
+107,m²,1,2,27,años,1,18,La Molina,Casa,367369,Soles
+53,m²,1,3,35,años,0,20,La Molina,Casa,310004,Soles
+237,m²,1,3,26,años,1,3,Barranco,Departamento,579283,Soles
+306,m²,2,4,10,años,0,9,San Isidro,Casa,830317,Soles
+114,m²,1,2,27,años,1,14,San Isidro,Casa,446292,Soles
+79,m²,3,3,15,años,2,16,La Molina,Departamento,371006,Soles
+94,m²,2,3,0,años,1,11,La Molina,Casa,459695,Soles
+208,m²,4,3,27,años,2,20,Miraflores,Casa,693015,Soles
+348,m²,6,2,30,años,1,6,Surco,Casa,930300,Soles
+291,m²,5,2,20,años,1,9,Surco,Casa,805463,Soles
+328,m²,2,5,34,años,0,18,Lima Centro,Casa,835423,Soles
+147,m²,4,3,4,años,1,16,Miraflores,Casa,582461,Soles
+169,m²,6,2,27,años,1,3,Surco,Casa,628357,Soles
+245,m²,5,5,26,años,2,2,San Isidro,Departamento,733567,Soles
+167,m²,6,3,10,años,2,20,Lima Centro,Casa,682927,Soles
+209,m²,7,4,6,años,0,4,San Isidro,Departamento,712667,Soles
+305,m²,5,5,36,años,0,15,San Isidro,Casa,893147,Soles
+341,m²,6,5,9,años,1,1,Surco,Departamento,923161,Soles
+252,m²,1,1,9,años,1,10,San Isidro,Casa,695197,Soles
+145,m²,5,4,22,años,1,4,Surco,Casa,585700,Soles
+74,m²,3,1,7,años,0,11,Barranco,Departamento,315977,Soles
+124,m²,6,2,33,años,0,18,Miraflores,Casa,540690,Soles
+258,m²,4,2,25,años,2,6,Miraflores,Casa,761124,Soles
+54,m²,6,5,12,años,1,19,Surco,Casa,468291,Soles
+149,m²,2,3,4,años,2,4,La Molina,Departamento,469572,Soles
+206,m²,2,4,7,años,1,16,La Molina,Casa,661323,Soles
+238,m²,5,4,37,años,0,12,San Isidro,Casa,761059,Soles
+128,m²,7,3,39,años,2,3,Barranco,Departamento,520524,Soles
+100,m²,2,3,7,años,0,12,Barranco,Departamento,363677,Soles
+238,m²,4,5,8,años,2,13,Surco,Departamento,731094,Soles
+315,m²,6,2,35,años,0,16,San Isidro,Departamento,796061,Soles
+201,m²,7,4,39,años,0,12,Lima Centro,Casa,665547,Soles
+139,m²,7,4,35,años,2,16,Surco,Casa,645238,Soles
+267,m²,4,2,5,años,2,1,Miraflores,Casa,773542,Soles
+180,m²,2,5,18,años,0,15,La Molina,Casa,595426,Soles
+301,m²,1,5,7,años,1,18,San Isidro,Departamento,792607,Soles
+265,m²,5,2,27,años,0,8,San Isidro,Departamento,701473,Soles
+174,m²,3,1,28,años,0,8,Miraflores,Casa,555429,Soles
+259,m²,2,5,8,años,0,7,Lima Centro,Casa,722083,Soles
+183,m²,5,5,10,años,1,10,San Isidro,Casa,746630,Soles
+303,m²,6,1,8,años,1,2,San Isidro,Departamento,831368,Soles
+107,m²,2,2,20,años,0,13,Surco,Departamento,342842,Soles
+177,m²,6,4,24,años,1,3,Barranco,Departamento,605601,Soles
+303,m²,6,3,23,años,1,16,San Isidro,Departamento,871544,Soles
+87,m²,6,4,40,años,2,12,Lima Centro,Casa,479475,Soles
+259,m²,7,2,31,años,1,11,San Isidro,Casa,834668,Soles
+335,m²,2,5,31,años,1,2,Lima Centro,Departamento,783437,Soles
+275,m²,1,1,10,años,1,15,Lima Centro,Casa,656259,Soles
+107,m²,6,3,10,años,1,3,Barranco,Casa,538409,Soles
+82,m²,3,2,3,años,1,10,Barranco,Departamento,356130,Soles
+86,m²,6,1,0,años,0,16,Lima Centro,Departamento,389507,Soles
+155,m²,5,4,0,años,0,11,Lima Centro,Casa,615284,Soles
+107,m²,4,1,14,años,1,3,Barranco,Departamento,367963,Soles
+200,m²,3,3,8,años,1,5,Barranco,Departamento,552883,Soles
+311,m²,5,1,39,años,2,6,Surco,Casa,858145,Soles
+149,m²,6,2,26,años,2,15,Miraflores,Departamento,583759,Soles
+91,m²,2,1,37,años,2,13,San Isidro,Casa,388411,Soles
+111,m²,2,3,5,años,0,18,La Molina,Casa,468250,Soles
+53,m²,7,3,13,años,2,20,La Molina,Departamento,448810,Soles
+240,m²,3,1,15,años,1,13,Lima Centro,Departamento,585140,Soles
+344,m²,1,5,0,años,1,11,Miraflores,Casa,939414,Soles
+331,m²,4,3,34,años,2,6,Surco,Departamento,794893,Soles
+340,m²,1,1,16,años,0,2,Lima Centro,Casa,755601,Soles
+186,m²,6,5,26,años,1,13,Lima Centro,Departamento,607184,Soles
+82,m²,3,1,32,años,0,5,La Molina,Casa,336806,Soles
+340,m²,6,1,19,años,2,14,Barranco,Departamento,857194,Soles
+165,m²,1,4,7,años,1,20,La Molina,Departamento,476869,Soles
+129,m²,1,1,8,años,2,1,Miraflores,Casa,449121,Soles
+307,m²,5,3,10,años,1,5,Barranco,Casa,906633,Soles
+100,m²,7,1,21,años,1,9,La Molina,Departamento,427232,Soles
+335,m²,6,1,31,años,1,17,San Isidro,Departamento,860142,Soles
+330,m²,2,3,10,años,1,4,La Molina,Departamento,759168,Soles
+300,m²,1,1,0,años,0,2,Surco,Casa,719698,Soles
+116,m²,2,1,35,años,2,14,Miraflores,Casa,422270,Soles
+253,m²,6,3,17,años,0,19,San Isidro,Departamento,747101,Soles
+66,m²,2,2,33,años,0,13,Lima Centro,Casa,317356,Soles
+184,m²,7,3,20,años,0,18,Surco,Departamento,614777,Soles
+142,m²,3,5,19,años,2,20,Miraflores,Casa,597935,Soles
+342,m²,4,2,34,años,0,5,Lima Centro,Casa,801366,Soles
+159,m²,5,3,40,años,2,1,San Isidro,Departamento,567737,Soles
+232,m²,7,3,6,años,0,17,Miraflores,Casa,805245,Soles
+70,m²,2,3,5,años,0,8,La Molina,Casa,381330,Soles
+230,m²,4,1,37,años,0,17,Miraflores,Casa,626104,Soles
+343,m²,5,1,27,años,2,5,Miraflores,Casa,909104,Soles
+201,m²,7,4,20,años,1,15,San Isidro,Departamento,681694,Soles
+143,m²,2,5,6,años,0,4,Miraflores,Casa,543943,Soles
+200,m²,4,1,34,años,1,7,Surco,Casa,603165,Soles
+175,m²,7,1,5,años,0,10,Barranco,Departamento,569091,Soles
+207,m²,2,1,15,años,1,13,La Molina,Departamento,532379,Soles
+193,m²,3,2,1,años,1,15,La Molina,Departamento,530407,Soles
+276,m²,1,2,7,años,0,2,Miraflores,Departamento,613984,Soles
+245,m²,3,1,37,años,2,9,Lima Centro,Departamento,556025,Soles
+141,m²,6,4,8,años,0,11,Lima Centro,Departamento,520211,Soles
+65,m²,2,5,27,años,2,13,Surco,Departamento,340082,Soles
+258,m²,2,3,13,años,0,9,San Isidro,Casa,747896,Soles
+116,m²,1,5,39,años,2,8,Barranco,Casa,471095,Soles
+250,m²,5,4,3,años,0,9,Surco,Departamento,718074,Soles
+142,m²,6,5,15,años,2,18,Lima Centro,Casa,668243,Soles
+223,m²,4,5,31,años,1,19,La Molina,Casa,719852,Soles
+178,m²,2,1,20,años,2,8,Lima Centro,Casa,499639,Soles
+281,m²,5,3,37,años,0,6,Lima Centro,Departamento,703248,Soles
+163,m²,3,5,3,años,0,19,Surco,Casa,634999,Soles
+128,m²,2,2,37,años,1,12,La Molina,Departamento,382701,Soles
+220,m²,5,5,9,años,2,7,Surco,Casa,767305,Soles
+291,m²,1,1,3,años,0,20,Miraflores,Departamento,663701,Soles
+284,m²,1,3,39,años,0,5,San Isidro,Departamento,659987,Soles
+205,m²,1,1,9,años,2,5,Lima Centro,Casa,534953,Soles
+231,m²,6,4,37,años,0,11,San Isidro,Casa,741142,Soles
+120,m²,6,4,40,años,1,11,Miraflores,Casa,553430,Soles
+341,m²,7,2,24,años,1,10,Miraflores,Departamento,921764,Soles
+40,m²,6,5,25,años,2,2,Miraflores,Casa,496605,Soles
+153,m²,6,5,6,años,1,5,San Isidro,Departamento,607797,Soles
+217,m²,3,2,40,años,0,11,Surco,Departamento,519780,Soles
+147,m²,2,1,22,años,1,4,Barranco,Departamento,377555,Soles
+237,m²,4,4,10,años,1,16,Surco,Casa,765184,Soles
+232,m²,1,4,36,años,2,8,Miraflores,Casa,642630,Soles
+57,m²,3,1,20,años,1,4,Lima Centro,Casa,290948,Soles
+232,m²,2,1,35,años,0,11,La Molina,Casa,603570,Soles
+55,m²,4,2,38,años,1,6,Lima Centro,Departamento,250898,Soles
+145,m²,2,4,35,años,2,18,San Isidro,Casa,544890,Soles
+161,m²,1,1,25,años,2,18,Surco,Departamento,400772,Soles
+224,m²,1,4,5,años,1,20,Surco,Departamento,576556,Soles
+53,m²,2,2,40,años,1,3,Surco,Departamento,216008,Soles
+243,m²,4,4,16,años,0,18,Surco,Departamento,668915,Soles
+235,m²,3,2,28,años,0,9,Surco,Casa,634862,Soles
+155,m²,7,3,36,años,0,5,Barranco,Departamento,519416,Soles
+216,m²,7,5,26,años,2,8,La Molina,Departamento,759102,Soles
+238,m²,7,5,26,años,2,16,La Molina,Departamento,781212,Soles
+193,m²,1,4,2,años,2,19,La Molina,Departamento,540082,Soles
+269,m²,2,2,13,años,0,5,Lima Centro,Casa,648735,Soles
+262,m²,2,2,38,años,1,11,Barranco,Departamento,591503,Soles
+238,m²,5,4,35,años,1,9,La Molina,Casa,772843,Soles
+46,m²,7,5,37,años,2,14,Lima Centro,Casa,449406,Soles
+115,m²,5,5,37,años,0,4,La Molina,Departamento,467294,Soles
+186,m²,7,5,22,años,1,9,Surco,Casa,748088,Soles
+282,m²,1,2,17,años,1,5,La Molina,Casa,679741,Soles
+242,m²,3,2,3,años,2,16,San Isidro,Casa,727125,Soles
+212,m²,7,3,19,años,1,16,Barranco,Departamento,722544,Soles
+156,m²,2,3,28,años,1,9,Barranco,Casa,533047,Soles
+85,m²,2,4,13,años,1,16,La Molina,Casa,451006,Soles
+68,m²,5,2,4,años,1,17,Surco,Departamento,403351,Soles
+308,m²,5,1,11,años,0,7,Lima Centro,Departamento,706967,Soles
+273,m²,1,3,12,años,1,12,Surco,Casa,737242,Soles
+103,m²,6,1,15,años,1,16,La Molina,Casa,484838,Soles
+282,m²,5,5,22,años,1,6,San Isidro,Departamento,799682,Soles
+54,m²,4,1,10,años,2,7,Miraflores,Departamento,343213,Soles
+145,m²,3,4,32,años,0,1,Surco,Departamento,452826,Soles
+128,m²,5,1,14,años,1,20,San Isidro,Casa,550374,Soles
+232,m²,7,3,29,años,1,7,Surco,Casa,791780,Soles
+306,m²,7,5,25,años,2,4,Lima Centro,Casa,950795,Soles
+344,m²,5,3,19,años,2,4,Surco,Departamento,880638,Soles
+181,m²,6,3,17,años,1,10,Miraflores,Departamento,621301,Soles
+163,m²,1,5,25,años,2,11,Barranco,Departamento,519470,Soles
+53,m²,6,4,18,años,1,14,Surco,Casa,485282,Soles
+58,m²,5,5,12,años,1,8,Barranco,Casa,505810,Soles
+223,m²,5,3,10,años,2,18,Miraflores,Casa,749196,Soles
+281,m²,2,3,35,años,0,11,Barranco,Departamento,636165,Soles
+221,m²,2,3,26,años,1,12,San Isidro,Casa,660593,Soles
+100,m²,4,1,40,años,2,19,La Molina,Departamento,371147,Soles
+139,m²,5,1,24,años,2,10,Surco,Departamento,509471,Soles
+117,m²,2,2,21,años,1,19,Surco,Departamento,367334,Soles
+132,m²,7,1,31,años,1,6,San Isidro,Departamento,478508,Soles
+271,m²,3,2,10,años,2,6,Surco,Departamento,680080,Soles
+262,m²,6,4,25,años,1,16,Surco,Departamento,738872,Soles
+313,m²,2,3,0,años,1,17,Miraflores,Departamento,795351,Soles
+42,m²,6,2,14,años,2,12,San Isidro,Departamento,361131,Soles
+236,m²,5,5,19,años,0,3,Lima Centro,Casa,723459,Soles
+273,m²,6,5,38,años,2,11,Surco,Departamento,797061,Soles
+290,m²,3,2,10,años,1,1,Miraflores,Departamento,739455,Soles
+107,m²,2,1,37,años,2,6,Lima Centro,Casa,392603,Soles
+59,m²,4,3,34,años,2,2,La Molina,Departamento,339382,Soles
+95,m²,6,1,3,años,2,4,Surco,Casa,513520,Soles
+103,m²,5,3,30,años,2,5,Miraflores,Departamento,442133,Soles
+255,m²,6,1,33,años,1,20,La Molina,Departamento,685848,Soles
+93,m²,5,5,7,años,1,4,Lima Centro,Casa,495218,Soles
+142,m²,7,3,33,años,0,12,Barranco,Casa,588956,Soles
+122,m²,1,5,31,años,0,16,San Isidro,Departamento,370379,Soles
+46,m²,6,1,7,años,2,16,Miraflores,Departamento,396287,Soles
+301,m²,1,1,16,años,2,8,Surco,Casa,739309,Soles
+277,m²,1,1,11,años,0,10,San Isidro,Casa,694318,Soles
+99,m²,1,1,0,años,0,6,San Isidro,Casa,414623,Soles
+264,m²,5,3,5,años,1,11,Miraflores,Departamento,753265,Soles
+244,m²,4,3,24,años,2,16,Surco,Departamento,664609,Soles
+107,m²,6,1,10,años,0,14,La Molina,Casa,517377,Soles
+331,m²,6,4,11,años,2,13,San Isidro,Departamento,971529,Soles
+106,m²,4,4,7,años,1,15,Lima Centro,Departamento,418545,Soles
+200,m²,1,5,36,años,2,19,Miraflores,Casa,641019,Soles
+307,m²,6,5,6,años,1,8,Surco,Casa,965296,Soles
+237,m²,2,5,39,años,0,1,Barranco,Departamento,598732,Soles
+280,m²,7,4,10,años,0,16,San Isidro,Departamento,833485,Soles
+182,m²,1,5,14,años,2,13,Surco,Departamento,521366,Soles
+275,m²,4,5,28,años,0,16,Surco,Casa,781979,Soles
+294,m²,6,1,6,años,1,14,Lima Centro,Departamento,790326,Soles
+86,m²,7,5,39,años,2,10,La Molina,Departamento,498899,Soles
+273,m²,3,3,3,años,0,15,San Isidro,Casa,805766,Soles
+226,m²,6,4,7,años,0,8,Lima Centro,Casa,735074,Soles
+189,m²,5,5,23,años,2,4,Lima Centro,Departamento,618071,Soles
+111,m²,7,4,6,años,1,20,Miraflores,Departamento,533513,Soles
+241,m²,2,4,12,años,2,11,Lima Centro,Casa,678247,Soles
+341,m²,1,4,29,años,2,19,La Molina,Departamento,798891,Soles
+42,m²,5,1,35,años,1,19,Surco,Departamento,297138,Soles
+336,m²,2,2,6,años,1,20,La Molina,Casa,857637,Soles
+236,m²,4,5,15,años,1,13,San Isidro,Casa,786877,Soles
+108,m²,2,4,38,años,2,17,San Isidro,Casa,501053,Soles
+323,m²,6,2,12,años,0,20,Barranco,Casa,928997,Soles
+216,m²,6,2,11,años,2,18,Barranco,Casa,777553,Soles
+99,m²,7,3,35,años,1,19,La Molina,Casa,549587,Soles
+313,m²,3,4,0,años,2,4,Lima Centro,Casa,848124,Soles
+67,m²,6,1,12,años,1,6,San Isidro,Casa,438596,Soles
+71,m²,6,3,13,años,2,2,San Isidro,Casa,494516,Soles
+327,m²,7,2,35,años,1,8,La Molina,Casa,934412,Soles
+64,m²,4,4,26,años,2,11,La Molina,Departamento,340649,Soles
+168,m²,2,5,28,años,0,12,La Molina,Departamento,504265,Soles
+139,m²,3,4,11,años,2,3,Miraflores,Departamento,524574,Soles
+303,m²,1,4,2,años,1,9,La Molina,Casa,780724,Soles
+122,m²,5,3,0,años,1,15,Barranco,Departamento,478217,Soles
+118,m²,3,5,3,años,2,20,Barranco,Casa,576948,Soles
+333,m²,5,3,4,años,2,11,La Molina,Departamento,869450,Soles
+306,m²,1,5,10,años,1,18,La Molina,Casa,799225,Soles
+218,m²,2,2,21,años,1,12,San Isidro,Departamento,592126,Soles
+311,m²,4,5,0,años,0,12,Surco,Departamento,858677,Soles
+164,m²,1,3,24,años,0,13,San Isidro,Casa,487419,Soles
+304,m²,7,3,32,años,2,15,Surco,Departamento,849227,Soles
+138,m²,3,5,5,años,0,6,La Molina,Departamento,488286,Soles
+73,m²,2,2,27,años,0,7,La Molina,Casa,337973,Soles
+76,m²,6,2,1,años,1,11,Lima Centro,Departamento,370200,Soles
+67,m²,2,3,35,años,0,19,Miraflores,Casa,344514,Soles
+238,m²,4,4,27,años,1,1,Surco,Departamento,663850,Soles
+43,m²,6,5,4,años,2,19,Lima Centro,Departamento,406242,Soles
+297,m²,1,3,19,años,2,3,San Isidro,Casa,788196,Soles
+242,m²,7,1,30,años,0,18,Miraflores,Departamento,705939,Soles
+240,m²,7,5,18,años,2,5,San Isidro,Casa,850130,Soles
+323,m²,7,5,9,años,0,2,Lima Centro,Casa,957402,Soles
+320,m²,1,3,13,años,2,12,Miraflores,Casa,868351,Soles
+302,m²,2,2,11,años,0,20,San Isidro,Departamento,699911,Soles
+132,m²,6,5,3,años,2,15,Barranco,Departamento,590048,Soles
+74,m²,3,1,12,años,2,19,Surco,Casa,400405,Soles
+105,m²,6,2,6,años,1,20,Lima Centro,Departamento,439626,Soles
+288,m²,4,3,39,años,2,10,Barranco,Departamento,755664,Soles
+330,m²,3,3,27,años,0,1,San Isidro,Departamento,802889,Soles
+153,m²,6,4,17,años,1,5,Barranco,Casa,673533,Soles
+285,m²,4,4,22,años,1,16,La Molina,Departamento,737919,Soles
+350,m²,1,3,8,años,2,7,San Isidro,Departamento,852672,Soles
+78,m²,1,5,40,años,0,19,La Molina,Casa,378010,Soles
+342,m²,2,1,35,años,1,18,La Molina,Casa,823854,Soles
+116,m²,3,4,14,años,2,10,Miraflores,Casa,539841,Soles
+301,m²,1,4,23,años,2,1,Barranco,Departamento,752573,Soles
+124,m²,7,5,8,años,1,6,Miraflores,Departamento,601629,Soles
+287,m²,3,1,14,años,1,8,Lima Centro,Casa,728411,Soles
+159,m²,1,2,33,años,1,13,Surco,Casa,505773,Soles
+63,m²,1,3,6,años,2,17,Barranco,Casa,408514,Soles
+174,m²,5,5,36,años,0,13,Barranco,Casa,634340,Soles
+340,m²,6,1,33,años,1,13,Miraflores,Casa,913927,Soles
+216,m²,4,4,38,años,0,17,Miraflores,Casa,659653,Soles
+157,m²,1,5,17,años,0,5,Miraflores,Departamento,454938,Soles
+348,m²,6,1,14,años,1,11,Barranco,Departamento,882956,Soles
+285,m²,4,2,37,años,0,14,Lima Centro,Departamento,633627,Soles
+105,m²,5,5,10,años,0,17,Lima Centro,Departamento,424264,Soles
+125,m²,3,2,33,años,1,20,La Molina,Departamento,424973,Soles
+185,m²,1,2,28,años,2,16,Surco,Departamento,467576,Soles
+250,m²,5,2,37,años,0,20,Barranco,Casa,708591,Soles
+215,m²,4,5,37,años,0,8,Surco,Casa,657664,Soles
+95,m²,1,2,33,años,2,14,Miraflores,Departamento,305227,Soles
+283,m²,5,5,2,años,2,17,Lima Centro,Departamento,822204,Soles
+106,m²,5,5,0,años,2,14,La Molina,Casa,586273,Soles
+62,m²,6,5,27,años,0,16,Surco,Casa,480603,Soles
+334,m²,1,4,8,años,1,16,Miraflores,Departamento,789964,Soles
+346,m²,5,4,16,años,0,1,Barranco,Departamento,884278,Soles
+307,m²,1,5,0,años,1,7,Barranco,Casa,834994,Soles
+225,m²,1,2,27,años,2,19,San Isidro,Casa,674831,Soles
+314,m²,4,5,23,años,2,9,Barranco,Casa,939277,Soles
+144,m²,4,5,35,años,1,6,San Isidro,Casa,578631,Soles
+197,m²,5,3,25,años,2,5,Barranco,Departamento,641608,Soles
+157,m²,4,2,6,años,0,17,Surco,Casa,587484,Soles
+321,m²,5,1,10,años,1,1,Lima Centro,Departamento,775511,Soles
+347,m²,4,1,4,años,1,8,San Isidro,Departamento,864113,Soles
+59,m²,6,4,25,años,2,17,San Isidro,Departamento,462499,Soles
+129,m²,6,4,28,años,0,7,Barranco,Casa,553962,Soles
+57,m²,7,5,32,años,2,8,La Molina,Departamento,454772,Soles
+58,m²,3,2,0,años,0,3,San Isidro,Casa,370942,Soles
+242,m²,4,5,12,años,2,1,Barranco,Departamento,702909,Soles
+321,m²,3,5,37,años,1,12,San Isidro,Departamento,827738,Soles
+139,m²,4,4,36,años,0,9,Miraflores,Casa,539376,Soles
+94,m²,5,1,32,años,1,11,Lima Centro,Casa,445016,Soles
+315,m²,7,5,16,años,2,15,Surco,Casa,1025260,Soles
+164,m²,7,3,29,años,2,15,La Molina,Departamento,607986,Soles
+99,m²,3,1,24,años,2,8,Barranco,Departamento,386239,Soles
+201,m²,4,3,33,años,2,1,Barranco,Casa,648269,Soles
+187,m²,1,4,21,años,0,18,Miraflores,Casa,563369,Soles
+221,m²,2,5,17,años,0,7,Surco,Departamento,578391,Soles
+163,m²,7,3,13,años,0,7,Miraflores,Casa,642623,Soles
+94,m²,1,1,31,años,2,1,La Molina,Departamento,306375,Soles
+286,m²,3,5,20,años,1,19,San Isidro,Casa,832984,Soles
+301,m²,3,4,14,años,2,5,Lima Centro,Casa,832347,Soles
+316,m²,1,5,22,años,1,6,Surco,Departamento,767960,Soles
+305,m²,4,3,0,años,0,7,Surco,Departamento,769927,Soles
+225,m²,5,3,11,años,2,9,Miraflores,Casa,768890,Soles
+215,m²,3,2,31,años,1,7,Surco,Casa,620325,Soles
+245,m²,3,4,11,años,2,5,La Molina,Departamento,707158,Soles
+91,m²,6,3,15,años,2,14,Surco,Departamento,450558,Soles
+116,m²,4,1,11,años,1,16,Miraflores,Casa,517867,Soles
+289,m²,3,3,35,años,2,2,Surco,Departamento,734055,Soles
+123,m²,1,2,16,años,1,4,Surco,Casa,413424,Soles
+224,m²,3,5,35,años,1,12,Lima Centro,Casa,648745,Soles
+219,m²,7,5,12,años,2,19,Barranco,Departamento,796138,Soles
+185,m²,3,3,32,años,1,15,Lima Centro,Casa,580817,Soles
+186,m²,4,2,10,años,2,11,Surco,Casa,673233,Soles
+76,m²,1,2,21,años,0,11,San Isidro,Casa,357958,Soles
+176,m²,5,4,17,años,1,12,Barranco,Casa,665131,Soles
+125,m²,2,1,8,años,2,8,Barranco,Casa,493550,Soles
+80,m²,2,2,25,años,0,4,Lima Centro,Casa,324142,Soles
+67,m²,1,4,33,años,0,4,San Isidro,Departamento,246725,Soles
+239,m²,3,2,15,años,2,10,Surco,Departamento,619803,Soles
+309,m²,7,2,1,años,0,12,San Isidro,Casa,936217,Soles
+316,m²,3,5,28,años,0,18,Miraflores,Casa,875956,Soles
+328,m²,4,5,40,años,2,18,San Isidro,Casa,948365,Soles
+316,m²,2,1,28,años,1,12,Surco,Casa,753005,Soles
+195,m²,1,1,33,años,0,12,San Isidro,Casa,529068,Soles
+44,m²,6,4,30,años,1,1,Surco,Casa,435125,Soles
+158,m²,7,1,35,años,1,7,Surco,Casa,596870,Soles
+167,m²,2,4,24,años,0,9,Lima Centro,Casa,526981,Soles
+162,m²,5,5,17,años,1,18,San Isidro,Casa,662920,Soles
+75,m²,2,2,18,años,0,15,La Molina,Casa,334234,Soles
+291,m²,2,3,1,años,0,2,La Molina,Departamento,675385,Soles
+92,m²,3,3,8,años,2,15,Barranco,Departamento,397257,Soles
+86,m²,2,1,31,años,0,11,Surco,Casa,355893,Soles
+295,m²,3,4,2,años,1,3,Miraflores,Departamento,765465,Soles
+240,m²,1,5,30,años,0,7,San Isidro,Casa,700880,Soles
+46,m²,1,2,24,años,1,8,Barranco,Departamento,199453,Soles
+275,m²,6,1,33,años,2,7,Surco,Casa,823659,Soles
+199,m²,3,2,40,años,2,2,Barranco,Departamento,524401,Soles
+286,m²,6,3,12,años,1,2,Barranco,Departamento,778400,Soles
+160,m²,6,4,20,años,0,6,San Isidro,Departamento,576739,Soles
+164,m²,1,1,37,años,2,16,Barranco,Departamento,415939,Soles
+85,m²,2,2,31,años,0,20,San Isidro,Departamento,281717,Soles
+222,m²,6,2,34,años,0,5,Surco,Departamento,609557,Soles
+325,m²,7,3,28,años,2,7,Lima Centro,Casa,934472,Soles
+108,m²,3,1,31,años,2,15,La Molina,Casa,442768,Soles
+290,m²,2,5,11,años,2,12,San Isidro,Casa,846443,Soles
+346,m²,7,5,10,años,0,17,Miraflores,Casa,1028777,Soles
+174,m²,5,3,29,años,0,17,Surco,Departamento,568863,Soles
+49,m²,5,3,39,años,0,11,Barranco,Departamento,317341,Soles
+315,m²,7,4,12,años,2,16,La Molina,Departamento,927576,Soles
+184,m²,3,4,20,años,0,4,La Molina,Departamento,495268,Soles
+106,m²,2,1,12,años,0,16,Miraflores,Departamento,309285,Soles
+332,m²,6,4,31,años,2,20,Barranco,Casa,956616,Soles
+227,m²,2,5,4,años,0,7,Barranco,Casa,722711,Soles
+80,m²,4,1,23,años,2,14,San Isidro,Departamento,399578,Soles
+176,m²,5,1,4,años,1,3,Miraflores,Departamento,534033,Soles
+158,m²,5,4,12,años,0,17,Barranco,Departamento,562957,Soles
+131,m²,5,5,26,años,2,4,Barranco,Casa,622003,Soles
+274,m²,6,4,6,años,0,6,La Molina,Casa,850875,Soles
+212,m²,6,2,34,años,2,15,San Isidro,Casa,744850,Soles
+206,m²,7,3,26,años,2,14,Barranco,Casa,774672,Soles
+163,m²,5,5,13,años,1,18,Barranco,Casa,665793,Soles
+271,m²,4,4,0,años,2,2,San Isidro,Departamento,795322,Soles
+109,m²,3,1,19,años,0,7,San Isidro,Departamento,382562,Soles
+181,m²,5,5,35,años,2,19,Miraflores,Departamento,606473,Soles
+275,m²,3,2,8,años,1,12,La Molina,Departamento,676269,Soles
+171,m²,7,3,5,años,2,13,La Molina,Departamento,664320,Soles
+79,m²,6,3,30,años,0,16,Barranco,Departamento,407009,Soles
+193,m²,1,5,24,años,0,2,San Isidro,Casa,622858,Soles
+262,m²,4,1,14,años,2,20,Lima Centro,Casa,717347,Soles
+196,m²,5,1,20,años,2,19,Miraflores,Casa,679925,Soles
+153,m²,2,1,25,años,1,20,La Molina,Departamento,398954,Soles
+261,m²,3,4,9,años,0,11,Lima Centro,Casa,737249,Soles
+65,m²,5,4,16,años,0,13,La Molina,Casa,460913,Soles
+106,m²,7,2,30,años,2,7,Surco,Casa,564145,Soles
+332,m²,2,5,39,años,2,17,Miraflores,Departamento,799095,Soles
+176,m²,7,4,20,años,2,19,Lima Centro,Departamento,654023,Soles
+251,m²,4,3,22,años,0,11,San Isidro,Departamento,698641,Soles
+196,m²,2,3,39,años,1,20,Miraflores,Casa,568941,Soles
+159,m²,2,3,9,años,2,3,Lima Centro,Departamento,452728,Soles
+115,m²,7,3,0,años,1,4,San Isidro,Casa,620079,Soles
+51,m²,3,2,34,años,0,7,La Molina,Casa,308566,Soles
+287,m²,5,2,1,años,1,19,Barranco,Departamento,773341,Soles
+127,m²,1,3,12,años,2,20,San Isidro,Departamento,439671,Soles
+44,m²,1,4,17,años,2,12,Lima Centro,Departamento,239568,Soles
+237,m²,2,4,32,años,2,4,San Isidro,Casa,740204,Soles
+345,m²,5,1,11,años,0,17,Surco,Departamento,807005,Soles
+166,m²,5,3,21,años,1,13,Barranco,Departamento,529204,Soles
+217,m²,6,3,22,años,2,10,Miraflores,Casa,789408,Soles
+71,m²,6,3,24,años,0,18,San Isidro,Departamento,387342,Soles
+214,m²,4,2,5,años,2,13,La Molina,Departamento,627950,Soles
+163,m²,5,2,27,años,1,20,San Isidro,Casa,623535,Soles
+107,m²,2,2,37,años,2,7,Miraflores,Casa,444923,Soles
+308,m²,2,4,9,años,2,19,Miraflores,Casa,845244,Soles
+325,m²,5,1,11,años,1,5,Barranco,Departamento,833963,Soles
+203,m²,4,4,19,años,1,9,Miraflores,Departamento,598797,Soles
+107,m²,2,1,39,años,2,9,La Molina,Departamento,335083,Soles
+158,m²,2,1,22,años,0,16,Miraflores,Casa,505462,Soles
+231,m²,2,4,31,años,1,5,Miraflores,Departamento,589429,Soles
+56,m²,4,1,17,años,1,8,Barranco,Departamento,319461,Soles
+144,m²,1,2,28,años,2,16,Barranco,Casa,511204,Soles
+274,m²,2,4,25,años,0,20,Barranco,Casa,763399,Soles
+200,m²,4,5,36,años,2,18,La Molina,Departamento,630321,Soles
+95,m²,4,4,2,años,0,17,La Molina,Casa,507380,Soles
+60,m²,5,4,33,años,2,2,Miraflores,Casa,455806,Soles
+243,m²,3,3,29,años,0,14,San Isidro,Departamento,648016,Soles
+304,m²,2,4,28,años,0,17,Lima Centro,Departamento,715234,Soles
+339,m²,6,5,8,años,1,14,San Isidro,Casa,1003432,Soles
+131,m²,4,5,12,años,1,3,San Isidro,Casa,609132,Soles
+123,m²,6,1,5,años,0,15,Barranco,Casa,515990,Soles
+308,m²,6,4,32,años,2,6,Surco,Casa,895677,Soles
+127,m²,3,5,9,años,0,5,Miraflores,Departamento,464297,Soles
+197,m²,3,4,18,años,2,6,Lima Centro,Departamento,553094,Soles
+41,m²,5,3,0,años,1,16,Surco,Departamento,365444,Soles
+292,m²,2,2,37,años,2,16,Surco,Casa,758958,Soles
+80,m²,5,5,0,años,0,18,San Isidro,Departamento,436605,Soles
+134,m²,2,1,22,años,0,5,Lima Centro,Casa,393499,Soles
+84,m²,1,1,26,años,0,6,Barranco,Casa,322848,Soles
+344,m²,5,5,11,años,1,19,San Isidro,Departamento,922303,Soles
+193,m²,3,3,24,años,0,14,La Molina,Departamento,512991,Soles
+281,m²,2,1,17,años,1,17,Surco,Departamento,672601,Soles
+147,m²,5,1,6,años,2,17,Lima Centro,Casa,586452,Soles
+349,m²,7,3,27,años,2,11,San Isidro,Casa,1012100,Soles
+328,m²,4,5,40,años,1,16,Miraflores,Departamento,861637,Soles
+188,m²,2,1,7,años,0,15,Barranco,Departamento,503330,Soles
+146,m²,7,5,26,años,1,2,San Isidro,Casa,684927,Soles
+148,m²,1,2,18,años,1,3,San Isidro,Casa,491406,Soles
+321,m²,3,1,7,años,2,11,San Isidro,Casa,888674,Soles
+331,m²,5,1,11,años,0,11,San Isidro,Casa,895496,Soles
+58,m²,6,2,30,años,0,15,La Molina,Casa,401708,Soles
+251,m²,6,1,33,años,1,19,Barranco,Casa,766784,Soles
+314,m²,1,2,36,años,2,11,San Isidro,Departamento,701584,Soles
+183,m²,7,1,21,años,1,18,Miraflores,Casa,663880,Soles
+344,m²,1,3,20,años,2,2,San Isidro,Casa,851488,Soles
+294,m²,2,3,28,años,1,7,La Molina,Casa,741669,Soles
+97,m²,3,1,12,años,0,15,La Molina,Departamento,352564,Soles
+287,m²,5,2,12,años,1,16,Barranco,Casa,861825,Soles
+207,m²,2,1,33,años,2,5,Miraflores,Departamento,525105,Soles
+238,m²,6,5,7,años,0,10,Lima Centro,Departamento,704842,Soles
+279,m²,1,1,33,años,2,10,Lima Centro,Casa,680467,Soles
+147,m²,3,2,12,años,1,9,La Molina,Casa,544045,Soles
+265,m²,6,1,17,años,0,6,San Isidro,Departamento,690399,Soles
+326,m²,5,1,13,años,2,12,La Molina,Casa,886563,Soles
+112,m²,6,3,36,años,0,6,Lima Centro,Casa,492390,Soles
+213,m²,5,4,3,años,0,1,Surco,Departamento,624542,Soles
+236,m²,1,1,27,años,1,6,Barranco,Casa,615590,Soles
+222,m²,3,3,12,años,2,18,Lima Centro,Casa,690810,Soles
+107,m²,1,4,6,años,1,10,Barranco,Casa,456237,Soles
+158,m²,2,2,39,años,1,12,Surco,Departamento,439049,Soles
+209,m²,7,3,29,años,1,1,Lima Centro,Casa,683598,Soles
+219,m²,4,4,10,años,1,12,La Molina,Departamento,652088,Soles
+92,m²,4,1,20,años,2,3,San Isidro,Casa,458267,Soles
+342,m²,4,2,39,años,0,18,Miraflores,Casa,864353,Soles
+73,m²,3,2,37,años,1,14,La Molina,Casa,369886,Soles
+160,m²,2,1,36,años,1,4,La Molina,Casa,462323,Soles
+324,m²,1,4,11,años,1,13,Lima Centro,Departamento,757325,Soles
+345,m²,7,4,20,años,1,2,Lima Centro,Departamento,934145,Soles
+111,m²,5,1,9,años,2,5,Surco,Casa,511557,Soles
+335,m²,4,2,13,años,2,11,San Isidro,Casa,930690,Soles
+216,m²,1,5,0,años,2,17,Surco,Departamento,653269,Soles
+190,m²,1,3,35,años,0,1,Barranco,Casa,501989,Soles
+184,m²,7,1,15,años,1,19,Surco,Casa,698046,Soles
+235,m²,4,4,27,años,2,7,Barranco,Departamento,684321,Soles
+111,m²,2,5,24,años,1,14,Miraflores,Casa,519395,Soles
+104,m²,2,1,4,años,2,1,Miraflores,Casa,454317,Soles
+263,m²,2,1,8,años,2,14,Surco,Casa,733845,Soles
+132,m²,4,5,27,años,2,15,Surco,Casa,571994,Soles
+135,m²,4,5,0,años,2,16,Barranco,Departamento,577470,Soles
+296,m²,3,4,34,años,2,12,Lima Centro,Departamento,740834,Soles
+287,m²,6,3,7,años,2,16,Barranco,Departamento,819311,Soles
+309,m²,7,3,29,años,2,3,La Molina,Departamento,843871,Soles
+281,m²,6,1,40,años,2,19,San Isidro,Departamento,800217,Soles
+215,m²,5,1,30,años,1,17,Surco,Casa,665191,Soles
+220,m²,7,3,18,años,0,2,Barranco,Casa,767642,Soles
+328,m²,3,1,40,años,1,19,Miraflores,Departamento,763612,Soles
+189,m²,7,5,1,años,1,16,Lima Centro,Departamento,684934,Soles
+79,m²,7,3,16,años,0,20,San Isidro,Casa,554220,Soles
+171,m²,1,1,38,años,0,19,Barranco,Departamento,408598,Soles
+268,m²,3,2,16,años,2,8,Surco,Departamento,712987,Soles
+310,m²,7,1,21,años,0,5,La Molina,Departamento,819693,Soles
+293,m²,7,4,24,años,0,15,Barranco,Departamento,816418,Soles
+335,m²,6,3,3,años,2,9,Lima Centro,Departamento,876583,Soles
+277,m²,4,4,19,años,1,18,Miraflores,Casa,846994,Soles
+239,m²,4,3,9,años,2,14,Lima Centro,Casa,761852,Soles
+269,m²,4,3,33,años,2,2,Lima Centro,Casa,780528,Soles
+261,m²,5,3,21,años,1,9,Lima Centro,Casa,778683,Soles
+339,m²,4,4,15,años,2,19,Miraflores,Casa,983814,Soles
+132,m²,3,5,0,años,2,1,Lima Centro,Departamento,485351,Soles
+90,m²,5,1,28,años,1,8,Barranco,Casa,429308,Soles
+138,m²,1,1,39,años,0,2,La Molina,Departamento,320481,Soles
+102,m²,6,1,5,años,2,5,Surco,Departamento,488320,Soles
+96,m²,6,2,16,años,1,15,Barranco,Departamento,458463,Soles
+272,m²,3,4,20,años,1,6,Lima Centro,Casa,773328,Soles
+71,m²,4,4,21,años,0,9,San Isidro,Departamento,370673,Soles
+75,m²,4,2,39,años,1,6,Barranco,Casa,371106,Soles
+113,m²,5,4,13,años,2,4,Surco,Casa,544769,Soles
+57,m²,1,1,36,años,2,9,Surco,Departamento,248353,Soles
+294,m²,2,1,2,años,2,13,San Isidro,Departamento,751078,Soles
+208,m²,4,5,0,años,2,16,Surco,Casa,753670,Soles
+75,m²,5,2,0,años,1,16,Lima Centro,Casa,435652,Soles
+195,m²,4,1,40,años,2,3,San Isidro,Casa,598672,Soles
+275,m²,7,3,12,años,0,18,Lima Centro,Casa,852301,Soles
+137,m²,3,4,6,años,2,12,Surco,Departamento,534013,Soles
+264,m²,6,2,8,años,0,7,Lima Centro,Departamento,704262,Soles
+239,m²,1,5,19,años,1,18,Surco,Departamento,599227,Soles
+213,m²,1,3,2,años,1,4,Miraflores,Casa,647638,Soles
+314,m²,2,5,14,años,0,2,Barranco,Departamento,767040,Soles
+49,m²,4,5,2,años,0,5,Lima Centro,Departamento,336262,Soles
+65,m²,3,1,29,años,2,6,La Molina,Departamento,308595,Soles
+94,m²,1,4,38,años,2,8,Lima Centro,Departamento,309932,Soles
+212,m²,7,4,20,años,0,19,La Molina,Departamento,675875,Soles
+149,m²,7,1,37,años,0,11,Lima Centro,Departamento,458549,Soles
+112,m²,7,4,10,años,2,12,La Molina,Departamento,549948,Soles
+164,m²,5,1,8,años,0,20,Surco,Departamento,485624,Soles
+289,m²,1,1,0,años,0,3,Barranco,Casa,707877,Soles
+283,m²,6,2,13,años,0,9,La Molina,Casa,819002,Soles
+162,m²,2,5,2,años,2,6,Barranco,Casa,629111,Soles
+85,m²,6,3,22,años,1,1,La Molina,Departamento,398976,Soles
+100,m²,5,1,39,años,1,18,La Molina,Departamento,376022,Soles
+146,m²,3,1,12,años,0,5,Barranco,Casa,493005,Soles
+130,m²,2,1,3,años,2,12,San Isidro,Departamento,436486,Soles
+168,m²,3,5,29,años,0,4,Barranco,Departamento,516016,Soles
+130,m²,2,1,31,años,2,4,Lima Centro,Departamento,370277,Soles
+267,m²,5,5,20,años,1,7,Barranco,Casa,827277,Soles
+96,m²,3,2,6,años,0,14,Miraflores,Casa,466216,Soles
+152,m²,1,4,37,años,1,2,Surco,Departamento,401966,Soles
+272,m²,2,4,23,años,0,15,Barranco,Departamento,682420,Soles
+223,m²,3,2,21,años,0,2,Barranco,Departamento,552189,Soles
+109,m²,1,4,29,años,1,6,San Isidro,Departamento,401291,Soles
+191,m²,5,2,40,años,2,6,La Molina,Departamento,542267,Soles
+250,m²,7,5,31,años,0,19,Surco,Casa,821295,Soles
+47,m²,6,4,15,años,0,11,Surco,Departamento,395846,Soles
+342,m²,2,5,0,años,1,2,Lima Centro,Casa,910269,Soles
+298,m²,1,4,33,años,1,16,Barranco,Departamento,701251,Soles
+293,m²,2,1,35,años,0,14,Miraflores,Departamento,638088,Soles
+191,m²,2,1,1,años,1,10,Miraflores,Casa,614824,Soles
+332,m²,6,5,1,años,1,15,Miraflores,Casa,1000520,Soles
+229,m²,6,4,40,años,0,3,Surco,Casa,733394,Soles
+56,m²,3,4,17,años,2,20,La Molina,Departamento,370022,Soles
+81,m²,5,3,3,años,2,12,Lima Centro,Departamento,410897,Soles
+227,m²,4,5,2,años,1,12,Miraflores,Departamento,712549,Soles
+144,m²,2,3,15,años,2,4,Barranco,Casa,551724,Soles
+337,m²,7,2,14,años,1,12,San Isidro,Casa,978562,Soles
+67,m²,1,3,22,años,1,16,La Molina,Departamento,271812,Soles
+312,m²,6,5,18,años,1,20,San Isidro,Departamento,888343,Soles
+274,m²,1,1,25,años,0,10,Lima Centro,Departamento,539998,Soles
+181,m²,1,2,31,años,0,7,La Molina,Departamento,409413,Soles
+253,m²,6,5,8,años,1,12,Surco,Casa,873746,Soles
+50,m²,3,2,4,años,0,8,La Molina,Casa,334580,Soles
+336,m²,3,3,31,años,2,17,La Molina,Casa,885215,Soles
+195,m²,5,2,19,años,0,9,Miraflores,Casa,640772,Soles
+187,m²,7,1,9,años,1,10,Surco,Departamento,627342,Soles
+122,m²,6,5,18,años,0,6,Barranco,Departamento,498367,Soles
+161,m²,1,1,20,años,2,5,Surco,Casa,487026,Soles
+134,m²,2,5,2,años,2,11,San Isidro,Departamento,512039,Soles
+269,m²,5,2,34,años,1,4,Lima Centro,Casa,745329,Soles
+114,m²,4,3,9,años,0,18,La Molina,Casa,510217,Soles
+191,m²,4,3,36,años,2,5,La Molina,Casa,625796,Soles
+97,m²,6,4,2,años,0,18,Lima Centro,Casa,495225,Soles
+245,m²,5,2,28,años,1,3,San Isidro,Departamento,690655,Soles
+139,m²,5,5,14,años,1,7,Lima Centro,Departamento,524285,Soles
+268,m²,6,1,32,años,1,7,Surco,Casa,787129,Soles
+349,m²,5,1,23,años,1,5,Barranco,Casa,906824,Soles
+237,m²,3,1,18,años,1,12,San Isidro,Casa,714898,Soles
+327,m²,1,2,28,años,2,14,Surco,Casa,787934,Soles
+257,m²,6,4,8,años,2,20,Lima Centro,Departamento,759617,Soles
+195,m²,4,5,21,años,0,19,Surco,Departamento,571433,Soles
+249,m²,6,3,26,años,0,18,Surco,Departamento,688458,Soles
+135,m²,7,4,18,años,2,16,Lima Centro,Casa,660895,Soles
+339,m²,3,4,35,años,2,15,Miraflores,Departamento,869053,Soles
+41,m²,2,3,19,años,2,16,Lima Centro,Casa,320138,Soles
+131,m²,4,2,1,años,0,9,Surco,Departamento,457048,Soles
+225,m²,5,4,36,años,1,9,Barranco,Casa,746498,Soles
+101,m²,3,5,36,años,0,9,Miraflores,Departamento,370377,Soles
+203,m²,4,2,22,años,0,2,San Isidro,Casa,634093,Soles
+222,m²,1,3,18,años,2,3,La Molina,Departamento,584629,Soles
+133,m²,7,1,38,años,0,18,San Isidro,Casa,585386,Soles
+194,m²,3,3,6,años,2,19,San Isidro,Departamento,587045,Soles
+110,m²,5,3,23,años,1,14,San Isidro,Departamento,447312,Soles
+151,m²,2,5,14,años,0,18,La Molina,Departamento,471751,Soles
+275,m²,1,1,8,años,0,16,San Isidro,Casa,716488,Soles
+225,m²,2,4,38,años,2,11,Miraflores,Casa,652084,Soles
+100,m²,2,2,9,años,2,8,San Isidro,Departamento,375352,Soles
+106,m²,1,4,7,años,0,1,Surco,Casa,392986,Soles
+140,m²,1,1,32,años,2,2,Surco,Departamento,397741,Soles
+169,m²,1,1,19,años,2,1,Lima Centro,Departamento,419639,Soles
+145,m²,5,2,11,años,2,12,Lima Centro,Departamento,482939,Soles
+182,m²,5,3,22,años,0,17,Barranco,Departamento,571889,Soles
+331,m²,1,1,37,años,0,17,Miraflores,Departamento,676471,Soles
+127,m²,7,5,0,años,2,4,Miraflores,Casa,680816,Soles
+341,m²,2,4,6,años,0,12,Surco,Casa,862242,Soles
+303,m²,2,4,7,años,1,4,Surco,Departamento,756260,Soles
+109,m²,4,3,18,años,2,2,Lima Centro,Casa,487555,Soles
+99,m²,4,3,29,años,2,10,Barranco,Casa,475202,Soles
+323,m²,4,3,27,años,0,3,Surco,Casa,827150,Soles
+46,m²,6,4,6,años,1,15,La Molina,Departamento,372413,Soles
+113,m²,4,4,37,años,0,6,Lima Centro,Casa,433847,Soles
+213,m²,2,5,25,años,0,8,Surco,Casa,628052,Soles
+337,m²,5,3,25,años,1,16,Barranco,Casa,935154,Soles
+301,m²,3,2,29,años,0,4,San Isidro,Casa,783789,Soles
+158,m²,6,2,1,años,0,2,Lima Centro,Casa,600240,Soles
+53,m²,2,4,38,años,2,11,Miraflores,Casa,381361,Soles
+89,m²,7,1,33,años,1,15,Miraflores,Casa,508990,Soles
+294,m²,4,5,16,años,2,11,La Molina,Departamento,833867,Soles
+56,m²,4,1,24,años,1,11,Surco,Casa,358924,Soles
+58,m²,1,2,35,años,2,10,Barranco,Departamento,248609,Soles
+260,m²,2,3,24,años,1,4,La Molina,Casa,714658,Soles
+323,m²,6,5,36,años,1,16,La Molina,Departamento,879206,Soles
+68,m²,4,3,31,años,2,13,La Molina,Casa,444831,Soles
+185,m²,3,1,1,años,2,2,Miraflores,Casa,609263,Soles
+338,m²,1,3,24,años,0,14,San Isidro,Casa,826796,Soles
+219,m²,1,2,15,años,0,10,La Molina,Departamento,539863,Soles
+73,m²,7,3,7,años,1,6,Lima Centro,Casa,464249,Soles
+275,m²,6,4,36,años,2,14,San Isidro,Departamento,830610,Soles
+280,m²,5,1,20,años,1,19,Surco,Casa,805721,Soles
+90,m²,7,4,6,años,2,7,San Isidro,Casa,610349,Soles
+213,m²,2,5,19,años,1,14,Miraflores,Casa,693444,Soles
+78,m²,7,5,13,años,1,9,Lima Centro,Casa,539586,Soles
+245,m²,7,2,39,años,2,3,Barranco,Departamento,731388,Soles
+212,m²,3,1,36,años,2,16,Surco,Departamento,546961,Soles
+79,m²,6,3,32,años,1,14,Barranco,Casa,467112,Soles
+252,m²,4,3,39,años,2,15,Barranco,Departamento,715530,Soles
+49,m²,6,5,11,años,2,16,Miraflores,Casa,505359,Soles
+312,m²,7,5,27,años,2,2,La Molina,Departamento,894673,Soles
+276,m²,2,2,9,años,2,10,Surco,Casa,750883,Soles
+72,m²,6,2,26,años,1,10,Barranco,Departamento,374206,Soles
+347,m²,2,4,15,años,0,5,Miraflores,Departamento,798694,Soles
+198,m²,4,4,35,años,1,14,Barranco,Departamento,575837,Soles
+121,m²,3,2,1,años,1,9,Barranco,Departamento,442024,Soles
+61,m²,6,4,1,años,0,3,San Isidro,Casa,519830,Soles
+72,m²,4,3,5,años,1,5,Miraflores,Departamento,389019,Soles
+296,m²,1,5,37,años,2,9,Surco,Departamento,706202,Soles
+347,m²,1,3,21,años,2,13,Barranco,Departamento,801513,Soles
+151,m²,2,1,11,años,0,9,Surco,Casa,460466,Soles
+341,m²,1,4,34,años,1,4,San Isidro,Casa,854320,Soles
+166,m²,3,2,23,años,1,12,San Isidro,Departamento,514096,Soles
+350,m²,1,1,15,años,1,18,Surco,Casa,841274,Soles
+225,m²,7,1,34,años,0,15,Surco,Departamento,668823,Soles
+241,m²,3,3,5,años,0,10,Miraflores,Departamento,643560,Soles
+202,m²,7,4,2,años,1,3,Surco,Casa,788896,Soles
+251,m²,7,3,27,años,0,6,Barranco,Casa,801383,Soles
+73,m²,3,4,38,años,2,18,Barranco,Casa,431904,Soles
+54,m²,7,1,11,años,2,15,Barranco,Departamento,374201,Soles
+245,m²,2,3,20,años,2,3,Lima Centro,Departamento,594758,Soles
+304,m²,6,2,38,años,2,14,San Isidro,Casa,900150,Soles
+108,m²,3,2,37,años,1,10,Miraflores,Departamento,366164,Soles
+228,m²,2,4,24,años,2,8,Lima Centro,Departamento,601603,Soles
+157,m²,1,4,12,años,1,6,Lima Centro,Casa,515501,Soles
+259,m²,5,3,9,años,0,12,Miraflores,Departamento,694925,Soles
+309,m²,4,4,31,años,0,8,Barranco,Departamento,754887,Soles
+176,m²,3,4,24,años,0,14,Miraflores,Departamento,550207,Soles
+184,m²,6,2,26,años,0,14,Miraflores,Departamento,566218,Soles
+174,m²,2,5,28,años,0,12,La Molina,Casa,539818,Soles
+45,m²,4,2,20,años,2,13,Barranco,Departamento,335149,Soles
+236,m²,6,4,38,años,1,3,Lima Centro,Departamento,642015,Soles
+210,m²,2,4,22,años,2,20,Barranco,Departamento,574951,Soles
+169,m²,5,5,24,años,1,13,Barranco,Casa,644466,Soles
+326,m²,1,5,11,años,1,6,La Molina,Casa,840628,Soles
+279,m²,2,1,20,años,2,17,Surco,Departamento,656865,Soles
+99,m²,3,1,8,años,1,9,Barranco,Casa,431986,Soles
+184,m²,3,5,16,años,2,11,Surco,Departamento,586479,Soles
+291,m²,7,2,35,años,2,15,Lima Centro,Departamento,769540,Soles
+67,m²,2,2,2,años,1,9,Miraflores,Casa,380001,Soles
+99,m²,4,1,28,años,1,18,Surco,Casa,439308,Soles
+97,m²,7,2,7,años,1,3,Miraflores,Casa,531439,Soles
+126,m²,6,5,17,años,2,19,Miraflores,Departamento,586072,Soles
+332,m²,2,4,4,años,0,16,Barranco,Departamento,830754,Soles
+208,m²,1,3,7,años,1,12,La Molina,Departamento,564452,Soles
+205,m²,2,1,5,años,1,16,Surco,Casa,612741,Soles
+42,m²,3,1,39,años,1,11,Barranco,Departamento,209452,Soles
+64,m²,7,3,20,años,0,3,La Molina,Casa,433665,Soles
+244,m²,3,2,15,años,1,3,Lima Centro,Departamento,580278,Soles
+238,m²,7,4,18,años,2,5,Lima Centro,Casa,814968,Soles
+261,m²,6,3,38,años,0,12,Barranco,Departamento,737329,Soles
+228,m²,5,2,31,años,1,13,Surco,Casa,711500,Soles
+347,m²,4,1,27,años,1,20,Miraflores,Casa,907532,Soles
+258,m²,1,1,32,años,1,15,Barranco,Departamento,588441,Soles
+119,m²,4,5,40,años,2,17,Lima Centro,Casa,525485,Soles
+263,m²,1,4,19,años,0,5,Barranco,Casa,721751,Soles
+167,m²,5,4,18,años,2,2,La Molina,Departamento,555555,Soles
+302,m²,1,5,27,años,1,4,Surco,Casa,782695,Soles
+170,m²,5,1,32,años,0,4,Barranco,Casa,540567,Soles
+133,m²,7,4,2,años,0,14,Barranco,Casa,630774,Soles
+340,m²,6,4,28,años,2,9,San Isidro,Departamento,921432,Soles
+134,m²,1,5,16,años,2,4,Surco,Departamento,420583,Soles
+242,m²,1,1,10,años,2,16,Surco,Casa,686336,Soles
+348,m²,6,4,19,años,2,20,San Isidro,Casa,1064332,Soles
+194,m²,1,2,8,años,0,7,Lima Centro,Departamento,466815,Soles
+136,m²,7,1,13,años,1,5,Barranco,Departamento,519759,Soles
+315,m²,2,1,19,años,1,5,Surco,Casa,747629,Soles
+99,m²,2,2,28,años,1,16,Lima Centro,Casa,386753,Soles
+164,m²,2,3,36,años,1,2,San Isidro,Departamento,444328,Soles
+261,m²,4,4,37,años,2,18,San Isidro,Departamento,743748,Soles
+244,m²,4,5,37,años,2,20,Barranco,Casa,770998,Soles
+71,m²,5,1,27,años,2,11,La Molina,Departamento,339753,Soles
+253,m²,4,1,31,años,2,12,Surco,Casa,697163,Soles
+122,m²,3,2,30,años,1,15,Miraflores,Departamento,415112,Soles
+213,m²,5,4,8,años,1,13,Surco,Casa,763364,Soles
+281,m²,7,2,39,años,0,10,Barranco,Departamento,766716,Soles
+287,m²,2,2,12,años,0,20,Surco,Departamento,696201,Soles
+252,m²,4,3,15,años,0,18,Lima Centro,Departamento,642513,Soles
+173,m²,3,2,11,años,2,2,Lima Centro,Casa,564021,Soles
+98,m²,5,2,7,años,2,8,Surco,Casa,507703,Soles
+221,m²,7,1,35,años,1,5,Barranco,Departamento,664094,Soles
+65,m²,4,4,7,años,0,20,La Molina,Departamento,385576,Soles
+327,m²,1,5,6,años,0,4,Miraflores,Casa,829891,Soles
+189,m²,6,4,32,años,1,4,Miraflores,Casa,688928,Soles
+110,m²,1,2,28,años,1,1,Miraflores,Casa,388568,Soles
+186,m²,5,2,5,años,1,12,Barranco,Casa,658035,Soles
+165,m²,2,5,26,años,0,5,Surco,Casa,546624,Soles
+274,m²,7,5,23,años,0,15,Miraflores,Departamento,839630,Soles
+304,m²,1,1,21,años,1,13,Miraflores,Casa,719428,Soles
+241,m²,7,1,9,años,2,2,Barranco,Casa,800079,Soles
+245,m²,6,5,19,años,2,11,San Isidro,Departamento,821198,Soles
+183,m²,5,5,9,años,2,13,Surco,Departamento,682168,Soles
+318,m²,5,5,28,años,2,12,Barranco,Casa,969216,Soles
+141,m²,3,1,2,años,2,11,Surco,Departamento,467309,Soles
+316,m²,3,2,5,años,2,18,San Isidro,Casa,907813,Soles
+121,m²,1,1,34,años,2,9,Miraflores,Casa,434812,Soles
+256,m²,5,1,3,años,1,9,Barranco,Casa,750514,Soles
+64,m²,7,1,28,años,1,19,Barranco,Departamento,384497,Soles
+213,m²,2,5,36,años,2,18,La Molina,Departamento,592559,Soles
+193,m²,3,5,8,años,2,13,La Molina,Departamento,595096,Soles
+207,m²,5,5,12,años,1,15,Lima Centro,Departamento,666838,Soles
+257,m²,7,4,5,años,0,2,Surco,Departamento,776411,Soles
+149,m²,4,1,23,años,2,17,Surco,Casa,579348,Soles
+175,m²,5,4,40,años,1,15,Barranco,Casa,658953,Soles
+253,m²,7,2,9,años,2,5,Surco,Casa,818079,Soles
+302,m²,7,5,7,años,2,7,Surco,Casa,957936,Soles
+120,m²,5,3,7,años,2,14,Lima Centro,Departamento,477021,Soles
+332,m²,3,1,33,años,0,4,San Isidro,Casa,808740,Soles
+195,m²,3,4,1,años,0,5,La Molina,Casa,608988,Soles
+196,m²,3,2,11,años,2,16,Lima Centro,Departamento,554283,Soles
+218,m²,1,1,26,años,1,19,San Isidro,Casa,628401,Soles
+212,m²,7,4,30,años,2,20,Miraflores,Departamento,731680,Soles
+275,m²,7,4,28,años,0,11,Lima Centro,Casa,827577,Soles
+159,m²,4,3,34,años,0,15,Barranco,Casa,568730,Soles
+85,m²,7,2,1,años,2,10,La Molina,Departamento,487999,Soles
+326,m²,1,2,39,años,2,19,Lima Centro,Departamento,720388,Soles
+283,m²,5,1,7,años,2,18,Miraflores,Departamento,766419,Soles
+145,m²,2,5,28,años,0,18,La Molina,Casa,513132,Soles
+341,m²,1,4,1,años,1,14,Miraflores,Casa,862376,Soles
+310,m²,3,4,16,años,0,4,Lima Centro,Departamento,722700,Soles
+113,m²,2,3,5,años,0,10,Surco,Departamento,353260,Soles
+206,m²,2,1,3,años,1,13,Lima Centro,Casa,559936,Soles
+251,m²,3,3,24,años,0,2,Miraflores,Departamento,652891,Soles
+345,m²,5,2,31,años,2,17,Surco,Departamento,856048,Soles
+71,m²,3,4,35,años,1,3,Surco,Departamento,321905,Soles
+159,m²,1,3,35,años,2,4,Miraflores,Departamento,436363,Soles
+330,m²,4,4,5,años,2,17,Miraflores,Departamento,888064,Soles
+316,m²,2,2,34,años,1,18,Surco,Departamento,688465,Soles
+277,m²,7,5,18,años,2,6,Lima Centro,Departamento,833400,Soles
+179,m²,5,3,24,años,1,7,La Molina,Casa,605980,Soles
+122,m²,6,5,36,años,0,10,Lima Centro,Casa,555172,Soles
+102,m²,7,2,35,años,1,14,Miraflores,Casa,561729,Soles
+215,m²,6,3,28,años,1,8,Barranco,Casa,721189,Soles
+147,m²,4,5,21,años,0,5,Barranco,Departamento,518297,Soles
+283,m²,1,1,11,años,1,18,Barranco,Casa,738568,Soles
+241,m²,5,1,4,años,2,1,Barranco,Casa,771856,Soles
+103,m²,3,4,38,años,1,13,Miraflores,Departamento,375376,Soles
+276,m²,3,2,28,años,0,8,Barranco,Departamento,675303,Soles
+183,m²,6,3,12,años,0,20,Barranco,Casa,702980,Soles
+153,m²,2,4,23,años,0,9,Surco,Departamento,417467,Soles
+140,m²,7,4,7,años,1,19,La Molina,Casa,641972,Soles
+322,m²,2,5,38,años,2,6,Lima Centro,Departamento,782688,Soles
+73,m²,2,3,36,años,0,17,Barranco,Casa,333373,Soles
+51,m²,6,5,39,años,1,18,Surco,Departamento,387391,Soles
+66,m²,7,3,27,años,1,9,Lima Centro,Casa,460077,Soles
+225,m²,5,1,14,años,0,9,Surco,Casa,669125,Soles
+42,m²,4,2,21,años,0,19,Lima Centro,Departamento,261790,Soles
+256,m²,1,2,12,años,0,11,San Isidro,Departamento,617225,Soles
+89,m²,1,4,27,años,0,19,Barranco,Casa,410083,Soles
+168,m²,2,1,30,años,0,11,Lima Centro,Casa,462257,Soles
+161,m²,1,5,39,años,1,4,Barranco,Casa,534141,Soles
+103,m²,1,1,2,años,1,11,Barranco,Departamento,351091,Soles
+105,m²,1,4,3,años,1,20,Barranco,Casa,437711,Soles
+92,m²,6,1,35,años,0,10,Surco,Casa,415880,Soles
+250,m²,2,5,39,años,0,15,Surco,Casa,717311,Soles
+259,m²,5,5,6,años,1,1,Surco,Casa,843322,Soles
+138,m²,1,1,0,años,2,3,La Molina,Departamento,428068,Soles
+333,m²,2,5,16,años,1,14,Surco,Casa,873584,Soles
+164,m²,2,1,3,años,0,10,La Molina,Casa,506228,Soles
+223,m²,3,5,34,años,0,5,Surco,Casa,679139,Soles
+215,m²,3,3,0,años,2,19,Barranco,Departamento,619956,Soles
+161,m²,5,5,3,años,1,12,Miraflores,Departamento,622779,Soles
+143,m²,7,1,21,años,0,16,Barranco,Casa,592306,Soles
+209,m²,7,5,36,años,1,20,San Isidro,Casa,785536,Soles
+123,m²,1,4,2,años,1,8,Lima Centro,Departamento,402830,Soles
+157,m²,4,5,13,años,0,16,Barranco,Casa,637705,Soles
+232,m²,2,4,11,años,0,12,Lima Centro,Departamento,574454,Soles
+55,m²,5,1,9,años,1,15,Miraflores,Casa,386077,Soles
+55,m²,2,2,18,años,0,8,San Isidro,Departamento,252070,Soles
+323,m²,2,2,12,años,0,6,San Isidro,Departamento,719175,Soles
+110,m²,4,1,21,años,0,10,Surco,Departamento,363024,Soles
+230,m²,6,2,33,años,2,14,Barranco,Departamento,664365,Soles
+113,m²,2,2,12,años,2,13,Barranco,Casa,461237,Soles
+346,m²,4,2,2,años,2,19,Miraflores,Casa,983346,Soles
+116,m²,3,2,3,años,2,9,Miraflores,Casa,497112,Soles
+81,m²,7,4,39,años,0,6,La Molina,Casa,505037,Soles
+300,m²,3,4,33,años,1,6,San Isidro,Casa,836637,Soles
+287,m²,6,4,30,años,1,19,Surco,Departamento,791379,Soles
+152,m²,2,4,15,años,1,7,San Isidro,Casa,591442,Soles
+233,m²,5,2,23,años,1,18,Lima Centro,Departamento,651458,Soles
+83,m²,3,4,33,años,1,8,La Molina,Departamento,348690,Soles
+302,m²,5,3,27,años,1,15,Surco,Casa,856285,Soles
+294,m²,3,3,24,años,0,6,Surco,Departamento,691607,Soles
+78,m²,3,1,18,años,2,17,La Molina,Departamento,351902,Soles
+181,m²,2,1,7,años,0,12,Lima Centro,Departamento,431873,Soles
+140,m²,6,3,16,años,1,9,Miraflores,Departamento,570033,Soles
+318,m²,3,1,19,años,1,12,Surco,Casa,836061,Soles
+336,m²,7,1,30,años,2,17,Miraflores,Casa,950314,Soles
+156,m²,6,2,30,años,0,17,La Molina,Casa,596750,Soles
+276,m²,3,1,20,años,0,14,Barranco,Casa,705735,Soles
+264,m²,4,5,1,años,1,5,La Molina,Departamento,743025,Soles
+44,m²,4,3,21,años,0,14,Surco,Casa,379193,Soles
+315,m²,3,3,37,años,0,19,Lima Centro,Departamento,691872,Soles
+209,m²,5,5,38,años,2,13,Surco,Departamento,661600,Soles
+72,m²,5,4,12,años,1,4,San Isidro,Casa,507277,Soles
+195,m²,1,2,6,años,2,18,Miraflores,Departamento,563363,Soles
+348,m²,4,1,11,años,0,3,Surco,Casa,857093,Soles
+159,m²,3,5,4,años,1,2,San Isidro,Departamento,539260,Soles
+207,m²,7,4,25,años,0,4,Miraflores,Casa,744142,Soles
+75,m²,4,2,8,años,0,10,Surco,Casa,389805,Soles
+349,m²,5,3,37,años,0,17,Barranco,Casa,909451,Soles
+143,m²,1,2,28,años,0,13,La Molina,Departamento,364662,Soles
+208,m²,5,4,29,años,1,19,Lima Centro,Departamento,605668,Soles
+273,m²,3,3,25,años,2,6,Surco,Departamento,686968,Soles
+261,m²,4,4,11,años,2,19,Lima Centro,Casa,814586,Soles
+62,m²,2,2,17,años,2,18,San Isidro,Departamento,337347,Soles
+151,m²,4,4,35,años,0,12,Lima Centro,Departamento,459456,Soles
+206,m²,4,4,10,años,1,7,La Molina,Departamento,621688,Soles
+53,m²,1,4,24,años,1,13,Miraflores,Casa,316475,Soles
+45,m²,3,1,8,años,1,15,Surco,Casa,310871,Soles
+82,m²,5,2,28,años,0,16,San Isidro,Departamento,358979,Soles
+49,m²,5,1,11,años,1,4,La Molina,Casa,357239,Soles
+79,m²,6,1,17,años,0,15,San Isidro,Departamento,375999,Soles
+57,m²,6,5,13,años,1,2,Barranco,Departamento,419199,Soles
+197,m²,4,1,38,años,0,2,Surco,Departamento,484964,Soles
+231,m²,2,2,5,años,0,14,Lima Centro,Departamento,544093,Soles
+138,m²,6,1,14,años,0,6,Barranco,Departamento,452284,Soles
+252,m²,5,1,20,años,1,18,Barranco,Departamento,692938,Soles
+146,m²,5,4,27,años,0,8,Miraflores,Departamento,507168,Soles
+205,m²,2,1,25,años,2,11,Lima Centro,Casa,554743,Soles
+274,m²,2,1,17,años,2,20,San Isidro,Departamento,661212,Soles
+151,m²,4,3,38,años,1,4,Barranco,Departamento,464911,Soles
+88,m²,5,3,40,años,2,13,Barranco,Departamento,406561,Soles
+129,m²,6,3,30,años,0,11,Lima Centro,Casa,519059,Soles
+301,m²,6,2,32,años,2,1,Miraflores,Departamento,820593,Soles
+103,m²,3,2,27,años,0,20,Lima Centro,Departamento,304014,Soles
+231,m²,4,3,12,años,0,13,Miraflores,Departamento,631401,Soles
+346,m²,4,3,8,años,1,11,Barranco,Departamento,875135,Soles
+252,m²,6,3,1,años,0,11,San Isidro,Departamento,738688,Soles
+316,m²,1,2,14,años,2,13,La Molina,Casa,780428,Soles
+266,m²,6,1,4,años,1,3,Miraflores,Departamento,755973,Soles
+112,m²,2,2,5,años,0,19,La Molina,Departamento,347286,Soles
+299,m²,1,4,29,años,1,6,Barranco,Departamento,686251,Soles
+257,m²,2,5,15,años,1,10,La Molina,Casa,759254,Soles
+143,m²,3,4,5,años,1,13,Surco,Departamento,499648,Soles
+265,m²,4,5,39,años,2,14,Miraflores,Casa,792698,Soles
+235,m²,4,1,19,años,2,18,Miraflores,Departamento,639461,Soles
+234,m²,4,3,29,años,1,13,La Molina,Casa,680514,Soles
+210,m²,2,4,12,años,0,7,Lima Centro,Departamento,562669,Soles
+296,m²,6,3,31,años,1,14,Surco,Casa,865968,Soles
+290,m²,3,5,4,años,1,2,Lima Centro,Casa,825867,Soles
+123,m²,2,4,16,años,2,12,La Molina,Casa,520414,Soles
+228,m²,6,1,24,años,1,8,Miraflores,Casa,698261,Soles
+225,m²,6,1,9,años,1,20,Surco,Departamento,654865,Soles
+166,m²,5,5,10,años,0,4,Lima Centro,Casa,616061,Soles
+340,m²,1,5,12,años,1,6,Surco,Casa,892740,Soles
+194,m²,5,5,24,años,2,10,Barranco,Casa,747713,Soles
+85,m²,1,5,22,años,0,9,Barranco,Departamento,342839,Soles
+243,m²,6,3,0,años,0,16,Lima Centro,Departamento,673777,Soles
+253,m²,5,4,18,años,2,14,Miraflores,Departamento,756553,Soles
+135,m²,6,2,12,años,1,6,La Molina,Departamento,503934,Soles
+330,m²,7,2,11,años,0,2,Barranco,Departamento,891430,Soles
+138,m²,3,4,28,años,2,20,Lima Centro,Departamento,438030,Soles
